@@ -1,0 +1,10 @@
+body{
+    background-color: wheat;
+}
+
+.balloon{
+    height: 120px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
